@@ -1,0 +1,52 @@
+{
+  "name": "svelte-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "start": "sirv public"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^11.0.0",
+    "@rollup/plugin-node-resolve": "^7.0.0",
+    "autoprefixer": "^9.7.4",
+    "css-mqpacker": "^7.0.0",
+    "cssnano": "^4.1.10",
+    "husky": "^4.2.3",
+    "lint-staged": "^10.0.8",
+    "postcss": "^7.0.27",
+    "prettier": "^1.19.1",
+    "prettier-plugin-svelte": "^0.7.0",
+    "rollup": "^1.20.0",
+    "rollup-plugin-livereload": "^1.0.0",
+    "rollup-plugin-postcss": "^2.5.0",
+    "rollup-plugin-svelte": "^5.0.3",
+    "rollup-plugin-terser": "^5.1.2",
+    "rucksack-css": "^1.0.2",
+    "stylelint": "^13.2.1",
+    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-order": "^4.0.0",
+    "svelte": "^3.0.0",
+    "svelte-preprocess-postcss": "^1.1.1"
+  },
+  "dependencies": {
+    "sirv-cli": "^0.4.4"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.svelte": [
+      "stylelint --fix",
+      "prettier --write"
+    ]
+  },
+  "browserslist": [
+    "last 3 version",
+    "> 1%",
+    "IE 10"
+  ]
+}
