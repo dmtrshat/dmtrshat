@@ -164,8 +164,11 @@
 </style>
 
 <svelte:head>
-  <title>@dmtrshat</title>
-  <meta name="description" content="Dmitry Shtokhin. dmtrshat." />
+  <title>dmtrshat</title>
+  <meta
+    name="description"
+    content="Dmitry Shtokhin. dmtrshat. Software developer. Helping Quarians
+    Create the Geth." />
   <link
     href="https://fonts.googleapis.com/css?family=Montserrat:300,400,900|Roboto&display=swap"
     rel="stylesheet" />
@@ -181,17 +184,20 @@
 
     <section class="info">
       <p class="content__text text">
-        I’m a software developer. My stack is - JavaScript/TypeScript/Dart,
-        Python, C++. Also Rust and Go a bit
+        I’m a software engineer.
+        <br />
+        Geek, Crustacean, Pythonist, Javascripter.
+        <br />
+        As you can see, my main stack is Rust, Python, JavaScript.
       </p>
       <footer>
         <div class="footer__wrap">
           <a
             class="content__link text"
-            href="https://www.facebook.com/dmtrshat"
+            href="https://twitter.com/dmtrshat"
             rel="noopener"
             target="_blank">
-            facebook
+            twitter
           </a>
           <a
             class="content__link text"
