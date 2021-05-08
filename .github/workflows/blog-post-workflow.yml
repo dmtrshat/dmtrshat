@@ -1,17 +1,16 @@
-name: Latest blog post workflow
-on:
+name: Update readme with blog posts
+on: 
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    # Once a day at 8 AM
+    - cron: 0 8 * * *
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: JasonEtco/rss-to-readme@v1
         with:
-          max_post_count: "4"
-          feed_list: "https://dev.to/feed/dmtrshat"
+          feed-url: https://dev.to/feed/dmtrshat
+          readme-section: feed
+          max: 5
+          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"

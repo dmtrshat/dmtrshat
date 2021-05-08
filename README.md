@@ -58,9 +58,5 @@
 </p>
 
 <h3>Latest blog posts</h3>
-<!-- BLOG-POST-LIST:START -->
-- [Browser, DOM, JavaScript. Everything you need to know to build effective web-apps. Part one - Browser.](https://dev.to/dmtrshat/browser-dom-javascript-everything-you-need-to-know-to-build-effective-web-apps-part-one-browser-b18)
-- [Browser, DOM, JavaScript. Everything you need to know to build effective web-apps. Part two - DOM.](https://dev.to/dmtrshat/dom-what-is-it-and-how-does-it-work-2j23)
-- [A small collection of useful React hooks.](https://dev.to/dmtrshat/a-small-collection-of-useful-react-hooks-5ha2)
-- [✨Start creating React apps correctly✨](https://dev.to/dmtrshat/start-creating-react-apps-correctly-5f53)
-<!-- BLOG-POST-LIST:END -->
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
