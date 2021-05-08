@@ -56,11 +56,3 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmtrshat&show_icons=true&locale=en&layout=compact" alt="dmtrshat" />
 </p>
-
-<h3>Latest blog posts</h3>
-<!--START_SECTION:feed-->
-#### [Browser, DOM, JavaScript. Everything you need to know to build effective web-apps. Part one - Browser.](https:&#x2F;&#x2F;dev.to&#x2F;dmtrshat&#x2F;browser-dom-javascript-everything-you-need-to-know-to-build-effective-web-apps-part-one-browser-b18)
-#### [Browser, DOM, JavaScript. Everything you need to know to build effective web-apps. Part two - DOM.](https:&#x2F;&#x2F;dev.to&#x2F;dmtrshat&#x2F;dom-what-is-it-and-how-does-it-work-2j23)
-#### [A small collection of useful React hooks.](https:&#x2F;&#x2F;dev.to&#x2F;dmtrshat&#x2F;a-small-collection-of-useful-react-hooks-5ha2)
-#### [✨Start creating React apps correctly✨](https:&#x2F;&#x2F;dev.to&#x2F;dmtrshat&#x2F;start-creating-react-apps-correctly-5f53)
-<!--END_SECTION:feed-->
