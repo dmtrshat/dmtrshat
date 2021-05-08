@@ -15,4 +15,4 @@ jobs:
           feed-url: https://dev.to/feed/dmtrshat
           readme-section: feed
           max: 5
-          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
+          template: "#### [{{ title }}]({{ link }})"
