@@ -185,6 +185,6 @@
       "will-change",
       "cursor",
       "user-select"
-    ],
-  },
+    ]
+  }
 }

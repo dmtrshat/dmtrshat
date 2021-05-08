@@ -7,12 +7,80 @@
       rotationX: 15 * decimalY,
       ease: Quad.easeOut,
       transformPerspective: 700,
-      transformOrigin: "center"
+      transformOrigin: "center",
     });
   };
 
   document.body.addEventListener("mousemove", cursorPositionHandler);
 </script>
+
+<svelte:head>
+  <title>Dmitry Shatokhin</title>
+  <meta
+    name="description"
+    content="Dmitry Shtokhin. dmtrshat. Software developer. Helping Quarians
+    Create the Geth."
+  />
+  <link
+    href="https://fonts.googleapis.com/css?family=Montserrat:300,400,900|Roboto&display=swap"
+    rel="stylesheet"
+  />
+</svelte:head>
+<article class="page">
+  <div class="pattern">
+    <div class="pattern__me" />
+  </div>
+
+  <main class="content">
+    <h1 class="name text">Dmitry Shatokhin</h1>
+
+    <div class="info">
+      <p class="content__text text">
+        I’m a software engineer.
+        <br />
+        Geek, Crustacean, Pythonist, Javascripter.
+        <br />
+        As you can see, my main stack is Rust, Python, JavaScript.
+      </p>
+      <footer>
+        <div class="footer__wrap">
+          <a
+            class="content__link text"
+            href="https://twitter.com/dmtrshat"
+            rel="noopener"
+            target="_blank"
+          >
+            twitter
+          </a>
+          <a
+            class="content__link text"
+            href="https://github.com/dmtrshat"
+            rel="noopener"
+            target="_blank"
+          >
+            github
+          </a>
+          <a
+            class="content__link text"
+            href="https://t.me/dmtrshat"
+            rel="noopener"
+            target="_blank"
+          >
+            telegram
+          </a>
+          <a
+            class="content__link text"
+            href="https://www.linkedin.com/in/dmitry-shatokhin-45a784189"
+            rel="noopener"
+            target="_blank"
+          >
+            linkedin
+          </a>
+        </div>
+      </footer>
+    </div>
+  </main>
+</article>
 
 <style>
   .text {
@@ -35,7 +103,7 @@
     height: 100%;
     justify-content: center;
     align-items: center;
-    background-image: url(../images/pattern30.png);
+    background-image: url(../images/pattern.png);
   }
 
   .pattern__me {
@@ -162,73 +230,3 @@
     }
   }
 </style>
-
-<svelte:head>
-  <title>dmtrshat</title>
-  <meta
-    name="description"
-    content="Dmitry Shtokhin. dmtrshat. Software developer. Helping Quarians
-    Create the Geth." />
-  <link
-    href="https://fonts.googleapis.com/css?family=Montserrat:300,400,900|Roboto&display=swap"
-    rel="stylesheet" />
-</svelte:head>
-<article class="page">
-  <section class="pattern">
-    <div class="pattern__me" />
-  </section>
-
-  <main class="content">
-
-    <h1 class="name text">Dmitry Shatokhin</h1>
-
-    <section class="info">
-      <p class="content__text text">
-        I’m a software engineer.
-        <br />
-        Geek, Crustacean, Pythonist, Javascripter.
-        <br />
-        As you can see, my main stack is Rust, Python, JavaScript.
-      </p>
-      <footer>
-        <div class="footer__wrap">
-          <a
-            class="content__link text"
-            href="https://twitter.com/dmtrshat"
-            rel="noopener"
-            target="_blank">
-            twitter
-          </a>
-          <a
-            class="content__link text"
-            href="https://github.com/dmtrshat"
-            rel="noopener"
-            target="_blank">
-            github
-          </a>
-          <a
-            class="content__link text"
-            href="https://t.me/dmtrshat"
-            rel="noopener"
-            target="_blank">
-            telegram
-          </a>
-          <a
-            class="content__link text"
-            href="https://www.linkedin.com/in/dmitry-shatokhin-45a784189"
-            rel="noopener"
-            target="_blank">
-            linkedin
-          </a>
-          <a
-            class="content__link text"
-            href="https://www.instagram.com/dmtrshat/"
-            rel="noopener"
-            target="_blank">
-            instagram
-          </a>
-        </div>
-      </footer>
-    </section>
-  </main>
-</article>
