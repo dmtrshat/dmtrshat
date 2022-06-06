@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Dmitry. <br/>
+  Hi 👋, I'm Dmitry. <br/>
   I'm a software engineer
 </h1>
 <h3 align="center">Crustacean, Pythonist, Javascripter.</h3>
