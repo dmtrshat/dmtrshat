@@ -1,58 +1,13 @@
 <h1 align="center">
-  Hi 👋, I'm Dmitry. <br/>
-  I'm a software engineer
+  Hi, I'm Dmitrii
 </h1>
-<h3 align="center">Crustacean, Pythonist, Javascripter.</h3>
 
-<p align="center"> 
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
+Software Engineer/Architect with over 10 years of experience. I specialize in software engineering and architecture, and have a passion for physics and math.
 
-  <a href="https://www.rust-lang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-  </a>
+My professional journey kicked off with C, C++, and Python, and now I predominantly focus on web development. However, my coding adventures extend beyond the web, as I actively participate in projects involving C, Rust, AI, and data science. In the wise words of Robert Heinlein, "Specialization is for insects."
 
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+Throughout my career, I've collaborated with both small startups and large corporations, contributing to the creation and growth of various products.
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
+Away from the keyboard, I take immense pride in being a husband and father. My worldview aligns with atheism, and I relish engaging in conversations spanning science, philosophy, music, and geek culture. I'm all for multiculturalism and world peace.
 
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  
-  <a href="https://svelte.dev" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> 
-  </a>
-
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-</p>
-
-<p>
-  Recently, I am mainly a web developer, but I have a lot of experience in software development.<br/>
-  In programming, I am most interested in ML and Data Science.
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmtrshat&show_icons=true&locale=en&layout=compact" alt="dmtrshat" />
-</p>
